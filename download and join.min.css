@@ -1,0 +1,44 @@
+         
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 15px 0 20px;
+  }
+  
+  .box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #005af0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    padding: 10px 30px;
+    border-radius: 999px;    
+  } 
+  
+  .box a i {
+    padding-right: 8px;
+  } 
+  
+  .box a {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    position: relative;
+    font-family: "Roboto",sans-serif;
+  }
+  
+   .fab {
+     display: flex;
+      font-style: normal;
+      font-variant: normal;
+      text-rendering: auto;
+      line-height: 1;
+    }
+            
