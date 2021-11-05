@@ -1,0 +1,30 @@
+.buttons-code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 15px 0 20px;
+}
+
+.box-code {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: #005af0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  padding: 10px 30px;
+  border-radius: 999px;    
+} 
+
+.box-code a {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  position: relative;
+  font-family: "Roboto",sans-serif;
+}
